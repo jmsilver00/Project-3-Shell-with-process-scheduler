@@ -8,10 +8,15 @@ To compile: gcc shellwithsched.c
 To run: ./a.out
 
 Available commands in the shell:
+
 exit
+
 pwd
+
 cd
+
 help function is currently broken, this will cause errors but the shell will still work
+
 >
 
 batch mode is functioning
