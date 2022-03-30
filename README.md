@@ -22,3 +22,6 @@ help function is currently broken, this will cause errors but the shell will sti
 batch mode is functioning
 
 this shell uses foreground-background scheduling making it simple priority based: every process will enter the forground list for execution and wait there a small period of time, after this time if the process has not completed then it will enter the background waiting list and will only execute when the foreground list is empty.
+
+
+![shellwithsched](https://user-images.githubusercontent.com/85852238/160767888-c289fe75-ce91-4ca4-b9ee-7a7cbda4389a.jpg)
